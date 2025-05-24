@@ -1,11 +1,8 @@
 # TechSphere
-<<<<<<< HEAD
-TechSphere is a smart e-commerce platform developed by Group 8—Excel Viryan, Kevin Syonin, and Gerald Darryl Joseph Manurung—as part of a Database and SSIP project. Designed to support beginners in the world of PC building, TechSphere guides users in selecting the right components for custom-built computers. With an intuitive interface, compatibility checks, and educational features, the platform simplifies the process of assembling a personalized PC, making it accessible for users with little to no technical background.
-
-=======
-
 ## Project Description
-TechSphere is a web application designed to provide a platform for users to browse products, manage their shopping cart, and place orders. It aims to simplify the online shopping experience by offering a user-friendly interface and robust backend functionalities.
+TechSphere is a smart e-commerce web application developed by Group 8—Excel Viryan, Kevin Syonin, and Gerald Darryl Joseph Manurung—as part of a Database and SSIP project. The platform is designed to assist beginners in the world of PC building by offering an intuitive shopping experience, product compatibility guidance, and educational resources.
+
+With features like product browsing, shopping cart management, and order placement, TechSphere simplifies the process of assembling and purchasing custom-built computer components, making it accessible even for users with little to no technical background.
 
 ## Features
 
